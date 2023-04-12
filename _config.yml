@@ -3,7 +3,7 @@ title: The Joey Codes
 subtitle: 
 email: tarkatronic@gmail.com
 description: The online home of Joey Wilhelm, a.k.a. The Joey
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Joey Wilhelm
 display_address: false

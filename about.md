@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: post
-image: assets/images/IMG_20170527_064519.jpg
+image: assets/images/about.jpg
 nav-menu: true
 ---
 Hi, I'm Joey. But my friends call me The Joey. There's a story behind that, but I'll leave that for another time.
