@@ -3,4 +3,5 @@ title: Resume
 layout: post
 nav-menu: true
 ---
-Don't worry, this will be here. In time.
+<h1>Joey Wilhelm</h1>
+<h4>Highly Experienced Software Engineer/Architect/Mentor</h4>
