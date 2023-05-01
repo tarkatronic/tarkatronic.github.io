@@ -25,12 +25,11 @@ tiles-count: 8
 socials:
   GitHub: https://github.com/tarkatronic
   GitLab: https://gitlab.com/tarkatronic
-  Google-Plus:
   Instagram: https://www.instagram.com/thejoeyw/
   LinkedIn: https://www.linkedin.com/in/joewilhelm
   Twitter: https://twitter.com/mrbeersnob
-  Facebook:
-  Slack:
+  Stack-overflow: https://stackoverflow.com/users/1971587/joey-wilhelm?tab=profile
+  Steam: https://steamcommunity.com/id/tarkatronic/
 
 # build settings
 markdown: kramdown
