@@ -12,26 +12,19 @@ And it sure has been a fun one.
 Here are some of the things we have brewed:
 <div class="row">
     <table class="alt">
+        {% for brew in site.data.brewing %}
         <tr>
             <td>
-                <span class="image left"><img src="{% link assets/images/brewing/toasted_smores.jpg %}" alt="Toasted S'more Stout"></span>
-                Toasted S'mores Stout<br>
-                <a href="https://share.brewfather.app/XtWTHz5G8sPJa7">Batch Notes on Brewfather</a>
+                <span class="image left brew">
+                {% if brew.image %}<img src="{{ site.baseurl }}/{{ brew.image }}" alt="{{ brew.name }}">{% else %}
+                <span>No image yet!</span>{% endif %}
+                </span>
+                <strong>{{ brew.name }}</strong><br>
+                <strong>Style:</strong> {{ brew.style }}<br>
+                <strong>Approx ABV:</strong> {{ brew.abv }}<br>
+                {% if brew.description %}<strong>Description:</strong> {{ brew.description }}<br>{% endif %}
+                <br><a href="{{ brew.link }}">Batch Notes on Brewfather</a>
             </td>
-        </tr>
-        <tr>
-            <td>
-                <span class="image left"><img src="{% link assets/images/brewing/allagash_white_clone.jpg %}" alt="Allagash White Clone"></span>
-                Allagash White Clone<br>
-                <a href="https://share.brewfather.app/xPgsXbVj4A2P8T">Batch Notes on Brewfather</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <span class="image left"><img src="{% link assets/images/brewing/rhubarb_berliner_weisse.jpg %}"></span>
-                Rhubarb Berliner Weisse<br>
-                <a href="https://share.brewfather.app/GbMwCSExZiiQ1n">Batch Notes on Brewfather</a>
-            </td>
-        </tr>
+        </tr>{% endfor %}
     </table>
 </div>

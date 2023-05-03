@@ -1,0 +1,38 @@
+- name: Toasted S'mores Stout
+  style: Sweet Stout
+  abv: 6.0%
+  image: assets/images/brewing/toasted_smores.jpg
+  link: https://share.brewfather.app/XtWTHz5G8sPJa7
+  description: |
+    Sweet stout with brown sugar, graham crackers, cocoa powder, whole
+    marshmallows, and vanilla bean.
+
+- name: Allagash White Clone
+  style: Witbier
+  abv: 5.1%
+  image: assets/images/brewing/allagash_white_clone.jpg
+  link: https://share.brewfather.app/xPgsXbVj4A2P8T
+  description: |
+    An attempt to replicate Allagash's wonderful White Ale. Adapted from a
+    recipe in the July / August issue of Zymurgy magazine.
+
+- name: Rhubarb Berliner Weisse
+  style: Berliner Weisse
+  abv: 4.3%
+  image: assets/images/brewing/rhubarb_berliner_weisse.jpg
+  link: https://share.brewfather.app/GbMwCSExZiiQ1n
+  description: |
+    Our first from-scratch recipe, utilizing Philly Sour yeast to make a quick
+    sour ale. Aged in secondary with a 1-gallon bag of rhubarb harvested from
+    our home garden.
+
+- name: Oakarita
+  style: Gose
+  abv: "???"
+  link: https://share.brewfather.app/W299tksEaXrZOg
+  description: |
+    The same base grain bill as our Rhubarb Berliner Weisse, with the addition
+    of salt & coriander to make it a Gose... and then lime juice and peel,
+    orange juice and peel, agave syrup, and French oak chips soaked in a Plata
+    tequila! Far from a traditional beer, and a totally unknown ABV due to the
+    tequila, but a lovely interpretation of a classic Margarita, in beer form.
