@@ -16,6 +16,20 @@
     An attempt to replicate Allagash's wonderful White Ale. Adapted from a
     recipe in the July / August issue of Zymurgy magazine.
 
+- name: Juniper Mead
+  style: Metheglin
+  abv: 13.9%
+  link: https://share.brewfather.app/4E0P2AAutCc2PB
+  description: |
+    This is our attempt at making a Colorado Mountain spiced mead. We started out
+    with what I would describe as "Juniper Berry Tea". To that, we added a
+    combination of Clover and Alfalfa honey sourced from right here in the Rocky
+    Mountains.
+
+    We plan to split this in secondary fermentation into 5 different 1-gallon
+    batches. One will stay just juniper; the others will have other spices added
+    to see how the juniper plays with other flavors.
+
 - name: Rhubarb Berliner Weisse
   style: Berliner Weisse
   abv: 4.3%

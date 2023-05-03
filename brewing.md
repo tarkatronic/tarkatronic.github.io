@@ -22,7 +22,7 @@ Here are some of the things we have brewed:
                 <strong>{{ brew.name }}</strong><br>
                 <strong>Style:</strong> {{ brew.style }}<br>
                 <strong>Approx ABV:</strong> {{ brew.abv }}<br>
-                {% if brew.description %}<strong>Description:</strong> {{ brew.description }}<br>{% endif %}
+                {% if brew.description %}<strong>Description:</strong> {{ brew.description | newline_to_br }}<br>{% endif %}
                 <br><a href="{{ brew.link }}">Batch Notes on Brewfather</a>
             </td>
         </tr>{% endfor %}
