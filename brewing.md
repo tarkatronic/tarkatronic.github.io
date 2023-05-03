@@ -17,7 +17,7 @@ Here are some of the things we have brewed:
             <td>
                 <span class="image left brew">
                 {% if brew.image %}<img src="{{ site.baseurl }}/{{ brew.image }}" alt="{{ brew.name }}">{% else %}
-                <span>No image yet!</span>{% endif %}
+                <span><img src="{{ site.baseurl }}/assets/images/brewing/default_beer.png" alt="{{ brew.name }}"></span>{% endif %}
                 </span>
                 <strong>{{ brew.name }}</strong><br>
                 <strong>Style:</strong> {{ brew.style }}<br>
