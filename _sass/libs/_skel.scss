@@ -467,6 +467,10 @@
 						box-sizing: border-box;
 					}
 
+					.row > *.right {
+						float: right;
+					}
+
 					.row:after, .row:before {
 						content: '';
 						display: block;

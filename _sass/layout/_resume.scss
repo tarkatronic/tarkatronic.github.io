@@ -1,0 +1,9 @@
+/* Styles specific for the resume */
+
+div.resume {
+    .section-title {
+        text-transform: uppercase;
+        color: _palette(accent5) !important;
+        font-size: 80%;
+    }
+}
