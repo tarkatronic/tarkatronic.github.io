@@ -6,4 +6,15 @@ div.resume {
         color: _palette(accent5) !important;
         font-size: 80%;
     }
+    .employer {
+        margin-bottom: 0;
+    }
+    .position {
+        font-style: italic;
+        font-weight: normal;
+    }
+    .tenure {
+        text-transform: uppercase;
+        font-size: 75%;
+    }
 }
