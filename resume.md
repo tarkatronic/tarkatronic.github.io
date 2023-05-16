@@ -41,7 +41,7 @@ image: assets/images/resume.jpg
                         <p>Agile/Scrum Methodology, 12 Factor App Development, Open Source program management</p>
                     </p>
                 </div>
-                <div class="9u 12u$(small)">
+                <div class="9u 12u$(small)"><!--
                     <h4 class="section-title">Introduction</h4>
                     <p>
                         With over 20 years of professional experience, I am
@@ -55,7 +55,7 @@ image: assets/images/resume.jpg
                         continually cultivating engineering culture, open
                         source engagement, and helping to level up my fellow
                         engineers through mentoring and leading by example.
-                    </p>
+                    </p>-->
                     <h4 class="section-title">Experience</h4>
                     <h4 class="employer">Pinwheel, Remote &mdash; <span class="position">Security Engineer / Staff Engineer</span></h4>
                     <h5 class="tenure">June 2022 - Present</h5>
