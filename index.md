@@ -7,5 +7,10 @@ image: null
 author: null
 show_tile: false
 ---
-
-I love beer. And whiskey. Sometimes I fear that love is not mutual.
+<script>
+    var thoughts = [{% for thought in site.data.deepthoughts %}
+        `{{ thought | escape | strip }}`{% unless forloop.last %},{% endunless %}{% endfor %}
+    ];
+    var selection = parseInt(Math.random() * thoughts.length);
+    document.write(thoughts[selection]);
+</script>
