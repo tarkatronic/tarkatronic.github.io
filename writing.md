@@ -8,5 +8,3 @@ image: null
 author: null
 show_tile: true
 ---
-
-<h1>Blog. Blag. Blug.</h1>
