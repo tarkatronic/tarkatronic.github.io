@@ -3,7 +3,7 @@ layout: post
 title: Open Source is Built By Those Who Show Up
 ---
 <div class="box">
-    <i class="fa fa-sticky-note-o"></i> <strong>Note</strong>
+    <i class="fa fa-sticky-note-o"></i> <strong>A note for my former colleagues</strong>
     <p>
         The original version of this story was written for the wonderful GoDaddy Engineering blog. While the premise, learnings, and theme may remain the same, this is not that story. That version has not seen the light of day, and likely never will. This is the story of my truth today. Of where I have grown to, and who I have grown to become today. Because at its core, that's what this is: it's a story of growth, both personal and professional. I hope you enjoy.
     </p>
