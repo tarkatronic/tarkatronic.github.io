@@ -26,11 +26,11 @@ image: assets/images/resume.jpg
                     </p>
                     <p>
                         <h4 class="section-title">Preferred/Strongest Tech</h4>
-                        <p>Python, PostgreSQL, AWS, Docker, GitHub Actions</p>
+                        <p>Python, Go, PostgreSQL, AWS, Docker, GitHub Actions</p>
                     </p>
                     <p>
                         <h4 class="section-title">Secondary Strong Tech</h4>
-                        <p>Go, JavaScript, TypeScript, MySQL, GraphQL, CircleCI</p>
+                        <p>JavaScript, TypeScript, MySQL, GraphQL, CircleCI</p>
                     </p>
                     <p>
                         <h4 class="section-title">Other Tech Experience</h4>
@@ -41,21 +41,20 @@ image: assets/images/resume.jpg
                         <p>Agile/Scrum Methodology, 12 Factor App Development, Open Source program management</p>
                     </p>
                 </div>
-                <div class="9u 12u$(small)"><!--
+                <div class="9u 12u$(small)">
                     <h4 class="section-title">Introduction</h4>
                     <p>
-                        With over 20 years of professional experience, I am
-                        ready to step into a Staff or Principal engineering
-                        role, where I can provide immense value to the company
-                        on high-level problems, while retaining the ability to
-                        dive in and work on technical minutiae. I have a
+                        With over 20 years of professional experience, I thrive
+                        in senior and staff level positions where I am able provide immense
+                        value to my employer on high-level problems, while retaining
+                        the ability to dive in and work on technical minutiae. I have a
                         lengthy, proven track record of technical leadership,
                         mentorship, system architecture, and consistent
                         delivery on projects. I am highly passionate about
                         continually cultivating engineering culture, open
                         source engagement, and helping to level up my fellow
                         engineers through mentoring and leading by example.
-                    </p>-->
+                    </p>
                     <h4 class="section-title">Experience</h4>
                     <h4 class="employer">Pinwheel, Remote &mdash; <span class="position">Security Engineer / Staff Engineer</span></h4>
                     <h5 class="tenure">June 2022 - Present</h5>
