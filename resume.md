@@ -46,7 +46,7 @@ image: assets/images/resume.jpg
                     <p>
                         With over 20 years of professional experience, I thrive
                         in senior and staff level positions where I am able provide immense
-                        value to my employer on high-level problems, while retaining
+                        value to my employer and team on high-level problems, while retaining
                         the ability to dive in and work on technical minutiae. I have a
                         lengthy, proven track record of technical leadership,
                         mentorship, system architecture, and consistent
@@ -58,7 +58,16 @@ image: assets/images/resume.jpg
                     <h4 class="section-title">Experience</h4>
                     <h4 class="employer">Pinwheel, Remote &mdash; <span class="position">Security Engineer / Staff Engineer</span></h4>
                     <h5 class="tenure">June 2022 - Present</h5>
-                    <p>Making magic happen.</p>
+                    <ul>
+                        <li>Worked on core libraries and frameworks utilized across the engineering teams.</li>
+                        <li>Established and ran the Security Guild, espousing best practices and spearheading direct security improvements.</li>
+                        <li>Instituted and ran a vulnerability management program covering all code produced for the company.</li>
+                        <li>Created <a href="https://github.com/underdog-tech/vulnbot">vulnbot</a> for improving teams' visibility to security vulnerabilities.</li>
+                        <li>Managed security and access controls across all company systems with special focus on Okta adoption and GitHub access controls.</li>
+                        <li>Helped to maintain and prove controls for audits such as PCI-DSS, SOC 2, and ISO 27001.</li>
+                        <li>Created a project for streamlining, repairing, and improving development environments for all engineers. This took environment setup timelines down from multiple days, to a couple hours.</li>
+                        <li>Got the company started in learning and adopting Go in the development of its libraries and applications.</li>
+                    </ul>
                     <h4 class="employer">GoDaddy, Remote &mdash; <span class="position">Senior Software Engineer</span></h4>
                     <h5 class="tenure">May 2016 - June 2022</h5>
                     <ul>
