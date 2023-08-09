@@ -45,7 +45,7 @@ image: assets/images/resume.jpg
                     <h4 class="section-title">Introduction</h4>
                     <p>
                         With over 20 years of professional experience, I thrive
-                        in senior and staff level positions where I am able provide immense
+                        in senior and staff level positions where I am able to provide immense
                         value to my employer and team on high-level problems, while retaining
                         the ability to dive in and work on technical minutiae. I have a
                         lengthy, proven track record of technical leadership,
