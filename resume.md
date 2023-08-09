@@ -61,12 +61,13 @@ image: assets/images/resume.jpg
                     <ul>
                         <li>Worked on core libraries and frameworks utilized across the engineering teams.</li>
                         <li>Established and ran the Security Guild, espousing best practices and spearheading direct security improvements.</li>
+                        <li>Established and evangelized open source best practices, both for usage and contribution.</li>
                         <li>Instituted and ran a vulnerability management program covering all code produced for the company.</li>
-                        <li>Created <a href="https://github.com/underdog-tech/vulnbot">vulnbot</a> for improving teams' visibility to security vulnerabilities.</li>
+                        <li>Created <a href="https://github.com/underdog-tech/vulnbot">vulnbot</a> for improving teams' visibility into security vulnerabilities.</li>
                         <li>Managed security and access controls across all company systems with special focus on Okta adoption and GitHub access controls.</li>
                         <li>Helped to maintain and prove controls for audits such as PCI-DSS, SOC 2, and ISO 27001.</li>
-                        <li>Created a project for streamlining, repairing, and improving development environments for all engineers. This took environment setup timelines down from multiple days, to a couple hours.</li>
-                        <li>Got the company started in learning and adopting Go in the development of its libraries and applications.</li>
+                        <li>Developed a project that reduced developer onboarding from 3+ days, to 2 hours.</li>
+                        <li>Introduced Go as a second official language for development of new projects.</li>
                     </ul>
                     <h4 class="employer">GoDaddy, Remote &mdash; <span class="position">Senior Software Engineer</span></h4>
                     <h5 class="tenure">May 2016 - June 2022</h5>
