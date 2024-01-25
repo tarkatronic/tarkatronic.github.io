@@ -19,10 +19,9 @@ image: assets/images/resume.jpg
                     </p>
                     <p>
                         <h4 class="section-title">Links</h4>
-                        <ul class="alt">
-                            <li><a href="https://github.com/tarkatronic/">GitHub</a></li>
-                            <li><a href="https://stackoverflow.com/users/1971587/joey-wilhelm">Stack Overflow</a></li>
-                        </ul>
+                            <a href="https://github.com/tarkatronic/">GitHub</a>, 
+                            <a href="https://linkedin.com/in/joewilhelm/">LinkedIn</a>,
+                            <a href="https://stackoverflow.com/users/1971587/joey-wilhelm">Stack Overflow</a>
                     </p>
                     <p>
                         <h4 class="section-title">Preferred/Strongest Tech</h4>
@@ -30,7 +29,7 @@ image: assets/images/resume.jpg
                     </p>
                     <p>
                         <h4 class="section-title">Secondary Strong Tech</h4>
-                        <p>JavaScript, TypeScript, MySQL, GraphQL, CircleCI</p>
+                        <p>Rust, JavaScript, TypeScript, MySQL, GraphQL, CircleCI</p>
                     </p>
                     <p>
                         <h4 class="section-title">Other Tech Experience</h4>
@@ -38,7 +37,7 @@ image: assets/images/resume.jpg
                     </p>
                     <p>
                         <h4 class="section-title">Related Experience</h4>
-                        <p>Agile/Scrum Methodology, 12 Factor App Development, Open Source program management</p>
+                        <p>Agile/Scrum Methodology, 12 Factor App Development, Open Source, Program management, Project management, Mentoring</p>
                     </p>
                 </div>
                 <div class="9u 12u$(small)">
@@ -57,7 +56,7 @@ image: assets/images/resume.jpg
                     </p>
                     <h4 class="section-title">Experience</h4>
                     <h4 class="employer">Pinwheel, Remote &mdash; <span class="position">Security Engineer / Staff Engineer</span></h4>
-                    <h5 class="tenure">June 2022 - Present</h5>
+                    <h5 class="tenure">June 2022 - November 2023</h5>
                     <ul>
                         <li>Worked on core libraries and frameworks utilized across the engineering teams.</li>
                         <li>Established and ran the Security Guild, espousing best practices and spearheading direct security improvements.</li>
