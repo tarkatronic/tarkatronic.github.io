@@ -5,8 +5,7 @@
   image: assets/images/brewing/toasted_smores.jpg
   link: https://share.brewfather.app/XtWTHz5G8sPJa7
   description: |
-    Sweet stout with brown sugar, graham crackers, cocoa powder, whole
-    marshmallows, and vanilla bean.
+    Sweet stout with brown sugar, graham crackers, cocoa powder, whole marshmallows, and vanilla bean.
 
 - name: Allagash White Clone
   style: Witbier
@@ -15,22 +14,16 @@
   image: assets/images/brewing/allagash_white_clone.jpg
   link: https://share.brewfather.app/xPgsXbVj4A2P8T
   description: |
-    An attempt to replicate Allagash's wonderful White Ale. Adapted from a
-    recipe in the July / August 2018 issue of Zymurgy magazine.
+    An attempt to replicate Allagash's wonderful White Ale. Adapted from a recipe in the July / August 2018 issue of Zymurgy magazine.
 
 - name: Juniper Mead
   style: Metheglin
   abv: 13.9%
   link: https://share.brewfather.app/4E0P2AAutCc2PB
   description: |
-    This is our attempt at making a Colorado Mountain spiced mead. We started out
-    with what I would describe as "Juniper Berry Tea". To that, we added a
-    combination of Clover and Alfalfa honey sourced from right here in the Rocky
-    Mountains.
+    This is our attempt at making a Colorado Mountain spiced mead. We started out with what I would describe as "Juniper Berry Tea". To that, we added a combination of Clover and Alfalfa honey sourced from right here in the Rocky Mountains.
 
-    We plan to split this in secondary fermentation into 5 different 1-gallon
-    batches. One will stay just juniper; the others will have other spices added
-    to see how the juniper plays with other flavors.
+    We plan to split this in secondary fermentation into 5 different 1-gallon batches. One will stay just juniper; the others will have other spices added to see how the juniper plays with other flavors.
 
 - name: Rhubarb Berliner Weisse
   style: Berliner Weisse
@@ -39,9 +32,7 @@
   image: assets/images/brewing/rhubarb_berliner_weisse.jpg
   link: https://share.brewfather.app/GbMwCSExZiiQ1n
   description: |
-    Our first from-scratch recipe, utilizing Philly Sour yeast to make a quick
-    sour ale. Aged in secondary with a 1-gallon bag of rhubarb harvested from
-    our home garden.
+    Our first from-scratch recipe, utilizing Philly Sour yeast to make a quick sour ale. Aged in secondary with a 1-gallon bag of rhubarb harvested from our home garden.
 
 - name: Oakarita
   style: Gose
@@ -50,11 +41,7 @@
   image: assets/images/brewing/oakarita.jpg
   link: https://share.brewfather.app/W299tksEaXrZOg
   description: |
-    The same base grain bill as our Rhubarb Berliner Weisse, with the addition
-    of salt & coriander to make it a Gose... and then lime juice and peel,
-    orange juice and peel, agave syrup, and French oak chips soaked in a Plata
-    tequila! Far from a traditional beer, and a totally unknown ABV due to the
-    tequila, but a lovely interpretation of a classic Margarita, in beer form.
+    The same base grain bill as our Rhubarb Berliner Weisse, with the addition of salt & coriander to make it a Gose... and then lime juice and peel, orange juice and peel, agave syrup, and French oak chips soaked in a Plata tequila! Far from a traditional beer, and a totally unknown ABV due to the tequila, but a lovely interpretation of a classic Margarita, in beer form.
 
 - name: Dirty Blonde
   style: Blonde? Pale ale? Beer.
@@ -62,12 +49,7 @@
   date_brewed: 2023-07-16
   link: https://share.brewfather.app/OMRM5eYpkuVH3p
   description: |
-    This batch was a happy little mistake. I didn't end up getting nearly as much
-    conversion from the grains as I wanted, and ended up a full percentage point
-    lower on ABV than intended. So instead of using this as the base for a few
-    more complex beer I had planned, this just got bottled off and turned into a
-    lovely, absolutely crushable, lightly fruity, lightly hoppy beer. Blonde?
-    Slightly hazy pale? Who knows? Who cares! It's delicious!
+    This batch was a happy little mistake. I didn't end up getting nearly as much conversion from the grains as I wanted, and ended up a full percentage point lower on ABV than intended. So instead of using this as the base for a few more complex beer I had planned, this just got bottled off and turned into a lovely, absolutely crushable, lightly fruity, lightly hoppy beer. Blonde? Slightly hazy pale? Who knows? Who cares! It's delicious!
 
 - name: Southern Peach
   style: Blonde
@@ -83,11 +65,7 @@
   date_brewed: 2023-09-10
   link: https://share.brewfather.app/KTwkTmj07brqWK
   description: |
-    Brewed in collaboration with <a href="https://tomsbrewshop.com/">Tom's Brew Shop</a>,
-    <a href="https://propagatelab.com/">Propagate Lab</a>, and members of the
-    <a href="https://www.lakewoodfermentation.club/">Lakewood Fermentation Club</a>, this
-    Biere de Garde is being held as a control batch to be compared with a barrel blend made
-    from batches brewed by other LFC members.
+    Brewed in collaboration with <a href="https://tomsbrewshop.com/">Tom's Brew Shop</a>, <a href="https://propagatelab.com/">Propagate Lab</a>, and members of the <a href="https://www.lakewoodfermentation.club/">Lakewood Fermentation Club</a>, this Biere de Garde is being held as a control batch to be compared with a barrel blend made from batches brewed by other LFC members.
 
 - name: Large Fluffy Clouds
   style: Hazy IPA
@@ -95,10 +73,7 @@
   date_brewed: 2023-11-04
   link: https://share.brewfather.app/x8RWqR4kBaRMPK
   description: |
-    This hazy IPA was the very first recipe I started creating, and by far the most complex
-    grain bill. Turning out to be FAR too large of a batch for my system, it didn't come out
-    quite as expected, but ended up being something with extreme promise and worthy of future
-    iterations.
+    This hazy IPA was the very first recipe I started creating, and by far the most complex grain bill. Turning out to be FAR too large of a batch for my system, it didn't come out quite as expected, but ended up being something with extreme promise and worthy of future iterations.
 
 - name: Funemployment Lager
   style: American Lager
@@ -106,9 +81,7 @@
   date_brewed: 2023-12-17
   link: https://share.brewfather.app/TFmpS5zRxeDFyN
   description: |
-    After being laid off in November 2023, I wanted to create something light and refreshing, and
-    very inexpensive to brew. This used Mystery-X hops grown in my back yard as first wort hops,
-    producing a very subtle hop note. This may have been an accidental clone of Bud Heavy.
+    After being laid off in November 2023, I wanted to create something light and refreshing, and very inexpensive to brew. This used Mystery-X hops grown in my back yard as first wort hops, producing a very subtle hop note. This may have been an accidental clone of Bud Heavy.
 
 - name: Murphy's Scottish Export
   style: Scottish Export
@@ -116,7 +89,4 @@
   date_brewed: 2023-12-25
   link: https://share.brewfather.app/rE4DYXkGO40inR
   description: |
-    Attempting to re-capture the magic of an accidental amber we created long ago, we accidentally
-    created this lovely Scottish Export ale instead. In fact it's so tasty that not only will we
-    be re-brewing it soon, but it will be our first beer entered into a real competition:
-    <a href="https://weizguys.com/revenge/">Sweetheart's Revenge 2024</a>!
+    Attempting to re-capture the magic of an accidental amber we created long ago, we accidentally created this lovely Scottish Export ale instead. In fact it's so tasty that not only will we be re-brewing it soon, but it will be our first beer entered into a real competition: <a href="https://weizguys.com/revenge/">Sweetheart's Revenge 2024</a>!
