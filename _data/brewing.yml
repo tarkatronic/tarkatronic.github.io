@@ -1,6 +1,7 @@
 - name: Toasted S'mores Stout
   style: Sweet Stout
   abv: 6.0%
+  date_brewed: 2022-12-26
   image: assets/images/brewing/toasted_smores.jpg
   link: https://share.brewfather.app/XtWTHz5G8sPJa7
   description: |
@@ -10,6 +11,7 @@
 - name: Allagash White Clone
   style: Witbier
   abv: 5.1%
+  date_brewed: 2023-01-01
   image: assets/images/brewing/allagash_white_clone.jpg
   link: https://share.brewfather.app/xPgsXbVj4A2P8T
   description: |
@@ -33,6 +35,7 @@
 - name: Rhubarb Berliner Weisse
   style: Berliner Weisse
   abv: 4.3%
+  date_brewed: 2023-02-26
   image: assets/images/brewing/rhubarb_berliner_weisse.jpg
   link: https://share.brewfather.app/GbMwCSExZiiQ1n
   description: |
@@ -43,6 +46,7 @@
 - name: Oakarita
   style: Gose
   abv: "???"
+  date_brewed: 2023-04-02
   image: assets/images/brewing/oakarita.jpg
   link: https://share.brewfather.app/W299tksEaXrZOg
   description: |
@@ -55,6 +59,7 @@
 - name: Dirty Blonde
   style: Blonde? Pale ale? Beer.
   abv: 4.3%
+  date_brewed: 2023-07-16
   link: https://share.brewfather.app/OMRM5eYpkuVH3p
   description: |
     This batch was a happy little mistake. I didn't end up getting nearly as much
@@ -67,6 +72,51 @@
 - name: Southern Peach
   style: Blonde
   abv: ~6%
+  date_brewed: 2023-07-28
   link: https://share.brewfather.app/ntfgaEvB7uMd2r
   description: |
     This delightful little peach of a blonde is like a perfect slice of the south, but born right here in Colorado. With the smooth, silky juiciness of the peaches, and just a subtle hint of oak and bourbon, her rebellious side manages to peek out from behind her sweetness.
+
+- name: Lakewood Fermentation Club Bière de Garde
+  style: Bière de Garde
+  abv: ~7.2%
+  date_brewed: 2023-09-10
+  link: https://share.brewfather.app/KTwkTmj07brqWK
+  description: |
+    Brewed in collaboration with <a href="https://tomsbrewshop.com/">Tom's Brew Shop</a>,
+    <a href="https://propagatelab.com/">Propagate Lab</a>, and members of the
+    <a href="https://www.lakewoodfermentation.club/">Lakewood Fermentation Club</a>, this
+    Biere de Garde is being held as a control batch to be compared with a barrel blend made
+    from batches brewed by other LFC members.
+
+- name: Large Fluffy Clouds
+  style: Hazy IPA
+  abv: 7.1%
+  date_brewed: 2023-11-04
+  link: https://share.brewfather.app/x8RWqR4kBaRMPK
+  description: |
+    This hazy IPA was the very first recipe I started creating, and by far the most complex
+    grain bill. Turning out to be FAR too large of a batch for my system, it didn't come out
+    quite as expected, but ended up being something with extreme promise and worthy of future
+    iterations.
+
+- name: Funemployment Lager
+  style: American Lager
+  abv: 4.2%
+  date_brewed: 2023-12-17
+  link: https://share.brewfather.app/TFmpS5zRxeDFyN
+  description: |
+    After being laid off in November 2023, I wanted to create something light and refreshing, and
+    very inexpensive to brew. This used Mystery-X hops grown in my back yard as first wort hops,
+    producing a very subtle hop note. This may have been an accidental clone of Bud Heavy.
+
+- name: Murphy's Scottish Export
+  style: Scottish Export
+  abv: 6.3%
+  date_brewed: 2023-12-25
+  link: https://share.brewfather.app/rE4DYXkGO40inR
+  description: |
+    Attempting to re-capture the magic of an accidental amber we created long ago, we accidentally
+    created this lovely Scottish Export ale instead. In fact it's so tasty that not only will we
+    be re-brewing it soon, but it will be our first beer entered into a real competition:
+    <a href="https://weizguys.com/revenge/">Sweetheart's Revenge 2024</a>!
